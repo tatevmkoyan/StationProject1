@@ -1,3 +1,4 @@
+import random
 print("Choose a template:")
 
 choice = input("Input 1, 2, or 3: ")
